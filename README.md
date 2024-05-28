@@ -21,3 +21,10 @@ Kullanıcı adı ve şifrenizi girerek giriş yapın.
 İşlemler
 Yeni bir işlem ekleyin.
 Mevcut işlemleri düzenleyin veya silin.
+
+
+
+
+
+Youtube Video linki:
+https://www.youtube.com/watch?v=YPl72V-XOMY
