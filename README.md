@@ -1,5 +1,12 @@
 # Finans_Yonetim
 
+Bu proje, PHP, MySQL ve Bootstrap kullanılarak geliştirilmiş bir web uygulamasıdır.
+## Gereksinimler
+
+- XAMPP veya benzeri bir PHP ve MySQL sunucusu
+- Web tarayıcısı
+
+
 Ilk olarak XAMPP uygulamasını açmalıyız.XAMPP açtıktan sonra Apache ve MYSQL'e start yani başlatmalıyız.
 Sonrasında phpMyAdmin'e gidin.
 Yeni bir veritabanı oluşturun.
